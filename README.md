@@ -1,2 +1,2 @@
 # inserp
-yet another open ERP project
+yet another open source ERP project
